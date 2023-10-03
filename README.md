@@ -1,4 +1,4 @@
-# Rog-Free
+# Yoga-Free
 
 Rog-Free is a website that shows you <b>specialised</b> yoga postures for specific diseases or ailments. 
 
@@ -8,7 +8,7 @@ It's simple to see and use so that it can be easier for people of any age group 
 
 ![responsive](https://user-images.githubusercontent.com/98885752/189529461-f3269776-a118-41d2-b840-d21772257016.png)
 
-Visit the deployed site: <a href="https://devanshsahni.github.io/Rog-Free/">Rog-Free</a> 
+Visit the deployed site: <>yoga-Free</a> 
 
 
 # Color-Design
@@ -54,6 +54,6 @@ Github : To save and store the files for the website. </br>
 
 </br>
 
-Github Pages was used to deploy the website: <a href="https://devanshsahni.github.io/Rog-Free/#"> Rog-Free</a>
+Github Pages was used to deploy the website: < Yoga-Free</a>
 
 
